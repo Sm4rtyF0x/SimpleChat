@@ -1,6 +1,6 @@
 # SimpleChat
 This program written in python and it for **chating** with your friends.
-if you wanna develop me please contact with me.
+if you wanna develop this. please contact with me.
 ## Usage
 Change ip address inside of the main.py and client.py to your ip address.
 After that run main.py to create server.
